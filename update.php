@@ -89,7 +89,7 @@ a {
     </head>
     <body>
     <table class="nav">
-            <td><a href="films.php">Рєєстрація фільму</a></td>
+            <td><a href="films.php">Рєєстрація</a></td>
             <td><a href="index.php">Записи</a></td>
         </table>
     <form class="form" action="save_films.php" method="post" align="center">
